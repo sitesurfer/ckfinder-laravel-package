@@ -1,3 +1,5 @@
 vendor/
 _connector/
 public/
+.idea
+composer.lock
